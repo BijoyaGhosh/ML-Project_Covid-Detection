@@ -1,1 +1,1 @@
-# ML-Project_Covid-Detection
+Detect Corona Virus Using CBC Blood Information of the Patients
